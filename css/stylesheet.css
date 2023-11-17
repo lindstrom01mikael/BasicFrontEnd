@@ -44,3 +44,18 @@ main
     float: left;
     width: 80%;
 }
+article
+{
+    float:left;
+    width: 48%;
+    padding: 5px;
+}
+article img
+{
+    width: 250px;
+}
+article p:nth-child(2)
+{
+    font-weight: bold;
+    color: blue;
+}
