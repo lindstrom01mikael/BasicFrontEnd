@@ -1,4 +1,4 @@
-# FrontEndk with basic Hypertext and stylesheet
+# FrontEnd with basic Hypertext and stylesheet
 
 ## Part 1 : Basic HTML
 
